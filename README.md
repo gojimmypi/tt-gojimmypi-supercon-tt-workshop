@@ -1,8 +1,10 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# Tiny Tapeout Wokwi Project for Supercon Ten - Pasadena 2026
 
 - [Read the documentation for project](docs/info.md)
+- [View the Wokwi project #6253](https://app.tinytapeout.com/projects/6253/wokwi)
+- [Created via wokwi.com/projects/479079248273566721](https://wokwi.com/projects/479079248273566721)
 
 ## What is Tiny Tapeout?
 
